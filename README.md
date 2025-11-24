@@ -18,4 +18,6 @@ La productividad agrícola en Colombia presenta variaciones significativas entre
 - [@Arturo Fernando Corpas Ulloa](https://www.github.com/ArturoCorpasUlloa)
 
 
+## Link Trello
 
+https://trello.com/invite/b/69128b59f7de381a8b44fedd/ATTI88ff843fbed32f438e79ee9e726b5fa84A1CD774/proyecto-integrado-iii-analisis-del-rendimiento-agricola-en-colombia
